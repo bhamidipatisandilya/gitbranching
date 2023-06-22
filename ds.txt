@@ -13,3 +13,17 @@ and computer engineering to analyze large amounts of data.
 
 here we are goign back to devops branch and add 2 more commits
 
+
+we added 2 commits to devops and 1 commit to bigdata but they are not visibile anymore
+
+the head position of the 2 branches are not seen and the last commit will only be visible to us
+
+
+
+
+
+Data science is important because it combines tools, methods, and technology to generate meaning from data. 
+Modern organizations are inundated with data; there is a proliferation of devices that can automatically collect and store information. 
+Online systems and payment portals capture more data in the fields of e-commerce, medicine, finance, and every other aspect of human life. 
+We have text, audio, video, and image data available in vast quantities.  
+					------------------ commit 3
