@@ -1,1 +1,5 @@
 this is a devops text file. ---- commit 1
+
+
+The best TDD can do, is assure that code does what the programmer thinks it should do. That is pretty good BTW.”
+—James Grenning                      ---------commit 2
