@@ -1,2 +1,15 @@
 this is a data science text file    --- commit 1
 
+
+
+
+Data science is the study of data to extract meaningful insights for business. 
+It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, 
+and computer engineering to analyze large amounts of data. 
+
+
+			-------commit 2
+
+
+here we are goign back to devops branch and add 2 more commits
+
